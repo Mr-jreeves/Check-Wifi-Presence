@@ -8,5 +8,5 @@ nohup python /home/pi/scan_wifi.py &
 
 Depending on your router configuration, your IP addresses might change from time to time, so you may want to hard-code the IP addresses for each phone device.
 
-A standard raspberry install will probably not contain all the includes that you need. You can google how to install those :-)
+A standard raspberry install will probably not contain all the imports that you need. You can google how to install those :-)
 
